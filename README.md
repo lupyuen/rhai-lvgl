@@ -1,4 +1,4 @@
-rhai-playground
+rhai-playground for LVGL
 ===
 
 This is an attempt to make a playground for the [Rhai scripting language][rhai]
